@@ -1,1 +1,1 @@
-printf ("merge");
+printf ("merge_conflito");
